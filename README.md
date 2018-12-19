@@ -11,7 +11,10 @@ Zuerst wurde ein Endlicher Automat modelliert, der dann im Arduino Code umgesetz
 
 Die Verkabelung wurde mit Fritzing gezeichnet.
 
-
 ![Wiring](https://github.com/SuperEugen/talking-treasure-chest/blob/master/talking-treasure-chest_electronics.png)
+
+Das Fusion360 Modell gibt es hier: https://a360.co/2QBVHye
+
+Kurzes Video auf YouTube hier: https://youtu.be/FtdsV8D-JqU
 
 Detailliertere Beschreibung auf meiner Website: https://ingohoffmann.de/bastelprojekt-sprechender-adventskalender/
